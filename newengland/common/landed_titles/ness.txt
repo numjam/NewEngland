@@ -1,0 +1,52 @@
+d_siwards_host = {
+	color = { 75 139 87 }
+	color2 = { 220 220 220 }
+
+	capital = 495 # Kibatos
+
+	culture = saxon
+	religion = catholic
+	
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	short_name = yes
+
+	allow = {
+		always = no
+	}
+
+}
+
+d_new_england = {
+	color = { 75 139 87 }
+	color2 = { 220 220 220 }
+
+	capital = 562 # Korchev
+
+	culture = saxon
+	religion = catholic
+	
+	short_name = yes
+
+	allow = {
+		always = no
+	}
+
+}
+
+e_the_riddermark = {
+	color = { 46 139 87 }
+	color2 = { 220 220 220 }
+
+	capital = 562 # Korchev
+
+	culture = saxon
+	religion = catholic
+	
+	short_name = yes
+
+	allow = {
+		always = no
+	}
+}

@@ -1,0 +1,18 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+#Misc#
+nick_barn;Barn;Barn;Barn;;Barn;;;;;;;;;x
+BM_SIWARDS_FOLLY;Siward's Saga;Siward's Saga;Siward's Saga;;Siward's Saga;;;;;;;;;x
+BM_SIWARDS_FOLLY_DESC;"Earl Siward and his men came to this land and had many battles there, driving away all the folk that abode there before. After they took the land into possession they gave it the name New England. To the towns that were in the land and to those which they built they gave the names of the towns in England.  They called them London and York, and by the names of other great towns in England. The land lies six days and nights' sail across the sea northeast from Miklagard. There is the best of land there, and that folk has abode there ever since."\n-The Jatvardar Saga;FR;DE;;ES;;;;;;;;;x
+b_kibatos;Kibatos;Kibatos;Kibatos;;Kibatos;;;;;;;;;x
+d_siwards_host;Siward's Host;Siward's Host;Siward's Host;;Siward's Host;;;;;;;;;x
+d_siwards_host_adj;Siward's Host;Siward's Host;Siward's Host;;Siward's Host;;;;;;;;;x
+d_new_england_adj;New English;New English;New English;;New English;;;;;;;;;x
+k_the_riddermark;The Riddermark;The Riddermark;The Riddermark;;The Riddermark;;;;;;;;;x
+k_the_riddermark_adj;Riddermarker;Riddermarker;Riddermarker;;Riddermarker;;;;;;;;;x
+
+#Events#
+EVTTITLEness1;Over the Sea and Far Away;Over the Sea and Far Away;Over the Sea and Far Away;;Over the Sea and Far Away;;;;;;;;;x
+EVTDESCness1;Siward, son of Aethelgar, how oft have you been turned about? First you lay conquered and dispossessed, left without your lands or your rights! Then, after many a hard year of imprisonment under William the Bastard, you were turned out onto the wine-dark sea, from whence you have fared and long-laboured. This day you stand a free man, having shaken off the Norman yoke and having been driven time and again off course, you have come to the fair city of Constantinople as a captain and leader of men, a leader of your folk. With many ships, noblemen, and a whole host behind you, will you not go forth and make England anew in this trackless frontier?;FR;DE;;ES;;;;;;;;;x
+EVTOPTAness1;I am ready!;FR;DE;;ES;;;;;;;;;x
+EVTOPTAness1_TT;New England awaits...;FR;DE;;ES;;;;;;;;;x
